@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Wonders of Cavite</title>
   <style>
-    :root { --sidebar-width: 220px; --accent: #4DA8DA; --bg: #7A7A73; --header-h: 110px; }
+    :root { --sidebar-width: 220px; --accent: #4DA8DA; --bg: #7A7A73; --header-h: 120px; }
     html, body { 
     height: 100%; 
     margin: 0; 
