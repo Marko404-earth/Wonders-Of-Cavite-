@@ -167,21 +167,21 @@
     <section class="info" id="overview">
       <h2>General Information (Times New Roman)</h2>
       <br>
-      <p>Cavite is a historic, populous, and rapidly industrializing province in the CALABARZON region of the Philippines. It is known as the "Historical Capital of the Philippines" for its crucial role in the country's fight for independence from Spain.</p>
+      <h3>Cavite is a historic, populous, and rapidly industrializing province in the CALABARZON region of the Philippines. It is known as the "Historical Capital of the Philippines" for its crucial role in the country's fight for independence from Spain.</h3>
       <br>
-      <p><strong>Geography:</strong> Located on the southern shores of Manila Bay, Cavite is bordered by Metro Manila to the northeast, Laguna to the east, and Batangas to the south.</p>
+      <h3><strong>Geography:</strong> Located on the southern shores of Manila Bay, Cavite is bordered by Metro Manila to the northeast, Laguna to the east, and Batangas to the south.</h3>
       <br>
-      <p><strong>Capital:</strong> The provincial capital is Imus, while the seat of the provincial government is in Trece Martires. The province is composed of 8 cities and 15 municipalities. While Tagalog is the most widely spoken language, a Spanish-based creole called Chavacano is also spoken in some areas, particularly Cavite City and Ternate.</p>
+      <h3><strong>Capital:</strong> The provincial capital is Imus, while the seat of the provincial government is in Trece Martires. The province is composed of 8 cities and 15 municipalities. While Tagalog is the most widely spoken language, a Spanish-based creole called Chavacano is also spoken in some areas, particularly Cavite City and Ternate.</h3>
       <br>
       <h2>History (Times New Roman)</h2>
       <br>
-      <p><strong>Spanish colonial period:</strong> Spanish colonizers established a port in Cavite in 1571, and it became a vital trading hub for the Manila-Acapulco Galleon Trade.</p>
+      <h3><strong>Spanish colonial period:</strong> Spanish colonizers established a port in Cavite in 1571, and it became a vital trading hub for the Manila-Acapulco Galleon Trade.</h3>
       <br>
-      <p><strong>Philippine Revolution:</strong> Cavite was a significant center of the Philippine Revolution in the late 1800s. Key events include the Cavite Mutiny of 1872 and the proclamation of Philippine independence by Emilio Aguinaldo in Kawit on June 12, 1898.</p>
+      <h3><strong>Philippine Revolution:</strong> Cavite was a significant center of the Philippine Revolution in the late 1800s. Key events include the Cavite Mutiny of 1872 and the proclamation of Philippine independence by Emilio Aguinaldo in Kawit on June 12, 1898.</h3>
       <br>
-      <p><strong>American colonial period:</strong> Following the Spanish-American War, the US established a major naval base at Sangley Point in Cavite City, which operated until 1941.</p>
+      <h3><strong>American colonial period:</strong> Following the Spanish-American War, the US established a major naval base at Sangley Point in Cavite City, which operated until 1941.</h3>
       <br>
-      <p><strong>World War II:</strong> During the Japanese occupation, guerrilla forces in Cavite fought against the Japanese Imperial forces. American and Filipino forces liberated the province in January 1945.</p>
+      <h3><strong>World War II:</strong> During the Japanese occupation, guerrilla forces in Cavite fought against the Japanese Imperial forces. American and Filipino forces liberated the province in January 1945.</h3>
     </section>
   </main>
 </body>
